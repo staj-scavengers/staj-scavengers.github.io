@@ -1,7 +1,7 @@
 ##  User Stories
 
 #### Glenn
-<img align="left" margin="5px" src="glenn.png" alt="Glenn" width="200"/>
+<img align="left" <style="padding:5px;"> src="glenn.png" alt="Glenn" width="200"/>
 
 >As a Teacher who wants to make studies and learning fun and more Interesting for kids, I want to setup a scavnger hunt for students to explore new things on a science trip, and have a competitive game between student, to see which student is  finding more item and getting to know them, and how long does it take for them to complete there tasks.
 

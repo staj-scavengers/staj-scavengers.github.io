@@ -1,7 +1,7 @@
 ##  User Stories
 
 #### Glenn
-<img src="glenn.png" alt="Glenn" width="250"/>
+<img align="left" src="glenn.png" alt="Glenn" width="250"/>
 
 >As a Teacher who wants to make studies and learning fun and more Interesting for kids, I want to setup a scavnger hunt for students to explore new things on a science trip, and have a competitive game between student, to see which student is  finding more item and getting to know them, and how long does it take for them to complete there tasks.
 
@@ -15,7 +15,7 @@
 <img src="lysander.png" alt="Lysander" width="250"/>
 
 >I am a Zoo Guest Engagement Manager, so I'm always looking for ways to make the zoo experience more interesting. I need activities that connect guests to online media about our exhibits and make their experience more than just a walk. This will make them more excited about coming to the zoo, and give us a more modern image.
-      
+
 #### Margharitte
 <img src="margharitte.png" alt="Margharitte" width="250"/>
 

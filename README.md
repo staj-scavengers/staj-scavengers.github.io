@@ -52,3 +52,13 @@ Hunters will have the option of downloading any hunt they have access to for off
   * [An example option for QR generation](https://crunchify.com/java-simple-qr-code-generator-example/).
 * Server to store hunt data
 *OAuth to set and manage public/private access.
+
+## Entity Relationship Diagram
+
+[Entity Relationship Diagram](scavengr-erd.pdf)
+
+## User Stories
+[User Stories](user_stories.md)
+
+## Wire Frame
+[wire frame](wireframe.png) <!-- (inprogress) -->

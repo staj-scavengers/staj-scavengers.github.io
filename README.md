@@ -14,7 +14,7 @@ Hunter users will be able to start a hunt by using a public link or accepting a 
 
 * Teachers
 * Parents
-* Museum, zoo, aquarium 
+* Museum, zoo, aquarium
 * Youth group/activity leaders
 
 Scavengr hunts are a creative and low cost activity that can be easily tailored to any group and age.  They can facilitate active learning in museums, classrooms and other spaces, guide a night on the town, or take explorers out into the wilderness.  QR and NFC tags are inexpensive and can be set up unobtrusively in public spaces like parks, malls or urban areas.
@@ -36,7 +36,7 @@ The Organizer will choose an access level, either open to any user with the hunt
 
 Hunters will either hunt online, passing QR and NFC info to the server and receiving hints back, or hunt offline, with all data stored on the device.  Online hunting will require wireless service but use very little storage, while offline hunting will need to store files locally but will be independent of wireless service.
 
-When a Hunter begins a hunt, they will be presented with the first hint, and a timer will start.  When the app receives the NFC or QR data from the first clue, it will display the  hint to the second clue, and so on.  When the final clue is scanned, the Hunter will have an option to add their name and time to a leaderboard for the hunt. 
+When a Hunter begins a hunt, they will be presented with the first hint, and a timer will start.  When the app receives the NFC or QR data from the first clue, it will display the  hint to the second clue, and so on.  When the final clue is scanned, the Hunter will have an option to add their name and time to a leaderboard for the hunt.
 
 
 ## Server-side functionality
@@ -63,6 +63,14 @@ Hunters will have the option of downloading any hunt they have access to for off
 
 ### [Entity Relationship Diagram](erd.md)
 
+#### Entity Classes
+
+* [CLue](https://github.com/staj-scavengers/server/blob/master/src/main/java/io/github/stajscavengers/scavenger/model/entity/Clue.java)
+* [Hunt](https://github.com/staj-scavengers/server/blob/master/src/main/java/io/github/stajscavengers/scavenger/model/entity/Hunt.java)
+* [HuntActivity](https://github.com/staj-scavengers/server/blob/master/src/main/java/io/github/stajscavengers/scavenger/model/entity/HuntActivity.java)
+* [Hunter](https://github.com/staj-scavengers/server/blob/master/src/main/java/io/github/stajscavengers/scavenger/model/entity/Hunter.java)
+* [Organizer](https://github.com/staj-scavengers/server/blob/master/src/main/java/io/github/stajscavengers/scavenger/model/entity/Organizer.java)
+* [User](https://github.com/staj-scavengers/server/blob/master/src/main/java/io/github/stajscavengers/scavenger/model/entity/User.java)
 
 ###  Wire Frame
 (In progress)

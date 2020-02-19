@@ -1,16 +1,14 @@
-## App Title
-
-# Scavengr
-
 ## Description
 
-An augmented reality scavenger hunt app that uses QR codes and/or NFC tags to display multimedia hints with or without wireless service.  
+Scavengr is an augmented reality scavenger hunt app that uses QR codes and/or NFC tags to display multimedia hints with or without wireless service.  
 
 QR codes are simple images that phone cameras can easily identify, even from a distance, in low light, or at an angle.  NFC tags require physical contact with the phone (i.e. Apple Pay), but they are inexpensive, can be easily embedded in physical objects, and can be written/rewritten by most Android devices.  
 
 Users in the Organizer role can set up new hunts easily and quickly with default QR templates, or expand them using NFC tags embedded in real-world objects.  
 
 Hunter users will be able to start a hunt by using a public link or accepting a private invitation.  Scavengr will track hunt progress and publish completion times.
+
+---
 
 ## Intended users
 
@@ -20,6 +18,11 @@ Hunter users will be able to start a hunt by using a public link or accepting a 
 * Youth group/activity leaders
 
 Scavengr hunts are a creative and low cost activity that can be easily tailored to any group and age.  They can facilitate active learning in museums, classrooms and other spaces, guide a night on the town, or take explorers out into the wilderness.  QR and NFC tags are inexpensive and can be set up unobtrusively in public spaces like parks, malls or urban areas.
+
+
+### [User Stories](user_stories.md)
+
+---
 
 ## Client-side functionality
 
@@ -42,23 +45,24 @@ The Scavengr server will maintain hunt details including clue/hint associations,
 
 Hunters will have the option of downloading any hunt they have access to for offline use.
 
+---
 
 ## External services/data
 
 * NFC tags need to be purchased by the user.
-* NFC read/write functionality is supported by Android.
+* NFC read/write functionality is supported by existing Android libraries.
   * [Here's a starting point](https://developer.android.com/guide/topics/connectivity/nfc/nfc).
 * QR functionality needs camera access and possibly a built in QR generator.
   * [An example option for QR generation](https://crunchify.com/java-simple-qr-code-generator-example/).
 * Server to store hunt data
-*OAuth to set and manage public/private access.
+* OAuth to manage public/private access for Organizers and scores for Hunters.
 
-## Entity Relationship Diagram
+---
 
-[Entity Relationship Diagram](scavengr-erd.pdf)
+## Design Documentation
 
-## User Stories
-[User Stories](user_stories.md)
+### [Entity Relationship Diagram](erd.md)
 
-## Wire Frame
-[wire frame](wireframe.png) <!-- (inprogress) -->
+
+###  Wire Frame
+(In progress)

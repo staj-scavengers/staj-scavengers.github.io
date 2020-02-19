@@ -65,7 +65,7 @@ Hunters will have the option of downloading any hunt they have access to for off
 
 #### Entity Classes
 
-* [CLue](https://github.com/staj-scavengers/server/blob/master/src/main/java/io/github/stajscavengers/scavenger/model/entity/Clue.java)
+* [Clue](https://github.com/staj-scavengers/server/blob/master/src/main/java/io/github/stajscavengers/scavenger/model/entity/Clue.java)
 * [Hunt](https://github.com/staj-scavengers/server/blob/master/src/main/java/io/github/stajscavengers/scavenger/model/entity/Hunt.java)
 * [HuntActivity](https://github.com/staj-scavengers/server/blob/master/src/main/java/io/github/stajscavengers/scavenger/model/entity/HuntActivity.java)
 * [Hunter](https://github.com/staj-scavengers/server/blob/master/src/main/java/io/github/stajscavengers/scavenger/model/entity/Hunter.java)

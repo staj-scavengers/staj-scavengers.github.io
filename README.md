@@ -49,13 +49,30 @@ Hunters will have the option of downloading any hunt they have access to for off
 
 ## External services/data
 
-* NFC tags need to be purchased by the user.
-* NFC read/write functionality is supported by existing Android libraries.
-  * [Here's a starting point](https://developer.android.com/guide/topics/connectivity/nfc/nfc).
-* QR functionality needs camera access and possibly a built in QR generator.
-  * [An example option for QR generation](https://crunchify.com/java-simple-qr-code-generator-example/).
-* Server to store hunt data
-* OAuth to manage public/private access for Organizers and scores for Hunters.
+1. Physical NFC tags 
+  * Need to be purchased by the user.
+  * NFC read/write functionality is supported by existing Android libraries; [Here's a starting point](https://developer.android.com/guide/topics/connectivity/nfc/nfc).
+  * NFC tags will replace QR codes optionally and won't be critical to any function of the app.
+  
+2. Device camera
+  * Required to scan QR codes on a hunt.
+  * Unless a hunt is entirely NFC-based, issues with the device's camera will make participating in a hunt impossible.
+  
+3. QR codes
+  * Printable QR codes will be provided to simplify user experience.
+  * Additional codes can be generated and printed for free online.
+  * QR codes are required for the app to work, and may need to be replaced.
+  
+4. [OAuth login](https://oauth.net/2/)
+  * Users will be required to authenticate through OAuth during account creation.
+  * OAuth scope will be limited to generating a user token.
+  * Users will still be able to modify/participate in hunts saved locally without OAuth access.
+  
+5. Scavengr Server 
+  * Hunt data and user profiles will be stored remotely.
+  * The server will manage access levels and scoreboards for hunts
+  * Authorized users will be able to download a hunt database file to play offline.
+  * Server access will be required to save/access new hunts.
 
 ---
 

@@ -40,10 +40,10 @@ Hunter users will be able to start a hunt by using a public link or accepting a 
 
 ## Intended users
 
-* Teachers
-* Parents
-* Museum, zoo, aquarium
-* Youth group/activity leaders
+* Teachers with an interest in active learning.
+* Youth group leaders who need new activities.
+* Museum, zoo, aquarium staff developing interactive experiences for guests.
+* Parents who want their kids to be familiar with technology but still physically & mentally active.
 
 Scavengr hunts are a creative and low cost activity that can be easily tailored to any group and age.  They can facilitate active learning in museums, classrooms and other spaces, guide a night on the town, or take explorers out into the wilderness.  QR and NFC tags are inexpensive and can be set up unobtrusively in public spaces like parks, malls or urban areas.
 

@@ -2,25 +2,25 @@
 
 ### Samuel Martinez
   
-GitHub [![GitHub](/github.png)](https://github.com/semartinez147)  LinkedIn [![LinkedIn](/linkedin.png)](https://linkedin.com/in/semartinez147)
+GitHub [![GitHub](github.png)](https:/github.com/semartinez147)  LinkedIn [![LinkedIn](linkedin.png)](https:/linkedin.com/in/semartinez147)
 
 --- 
  
 ### Trace Decker
 
-GitHub [![GitHub](/github.png)](https://github.com/TraceDecker/)  LinkedIn [![LinkedIn](/linkedin.png)](https://www.linkedin.com/in/trace-decker-cohort9/)
+GitHub [![GitHub](github.png)](https:/github.com/TraceDecker/)  LinkedIn [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/trace-decker-cohort9/)
 
 ---
  
 ### Abby Reyes
 
-GitHub [![GitHub](/github.png)](https://github.com/mabbyreyes/)  LinkedIn [![LinkedIn](/linkedin.png)](https://www.linkedin.com/in/maritzaareyes/)
+GitHub [![GitHub](github.png)](https:/github.com/mabbyreyes/)  LinkedIn [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/maritzaareyes/)
 
 ---
   
 ### Jawid Mohammadi
 
-GitHub [![GitHub](/github.png)](https://github.com/Jawidmohammadi/)  LinkedIn [![LinkedIn](/linkedin.png)](https://www.linkedin.com/in/jawid-mohammadi/)
+GitHub [![GitHub](github.png)](https:/github.com/Jawidmohammadi/)  LinkedIn [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/jawid-mohammadi/)
 
 ---
 
@@ -110,19 +110,19 @@ Hunters will have the option of downloading any hunt they have access to for off
 
 #### Entity Classes
 
-* [Clue](https://github.com/staj-scavengers/server/blob/master/src/main/java/io/github/stajscavengers/scavenger/model/entity/Clue.java)
-* [Hunt](https://github.com/staj-scavengers/server/blob/master/src/main/java/io/github/stajscavengers/scavenger/model/entity/Hunt.java)
-* [HuntActivity](https://github.com/staj-scavengers/server/blob/master/src/main/java/io/github/stajscavengers/scavenger/model/entity/HuntActivity.java)
-* [Organizer](https://github.com/staj-scavengers/server/blob/master/src/main/java/io/github/stajscavengers/scavenger/model/entity/Organizer.java)
-* [User](https://github.com/staj-scavengers/server/blob/master/src/main/java/io/github/stajscavengers/scavenger/model/entity/User.java)
+* [Clue](https:/github.com/staj-scavengers/server/blob/master/src/main/java/iogithub/stajscavengers/scavenger/model/entity/Clue.java)
+* [Hunt](https:/github.com/staj-scavengers/server/blob/master/src/main/java/iogithub/stajscavengers/scavenger/model/entity/Hunt.java)
+* [HuntActivity](https:/github.com/staj-scavengers/server/blob/master/src/main/java/iogithub/stajscavengers/scavenger/model/entity/HuntActivity.java)
+* [Organizer](https:/github.com/staj-scavengers/server/blob/master/src/main/java/iogithub/stajscavengers/scavenger/model/entity/Organizer.java)
+* [User](https:/github.com/staj-scavengers/server/blob/master/src/main/java/iogithub/stajscavengers/scavenger/model/entity/User.java)
 
 #### Flat Interfaces
 
-* [FlatClue](https://github.com/staj-scavengers/server/blob/master/src/main/java/io/github/stajscavengers/scavenger/view/FlatClue.java)
-* [FlatHunt](https://github.com/staj-scavengers/server/blob/master/src/main/java/io/github/stajscavengers/scavenger/view/FlatHunt.java)
-* [FlatHuntActivity](https://github.com/staj-scavengers/server/blob/master/src/main/java/io/github/stajscavengers/scavenger/view/FlatHuntActivity.java)
-* [FlatOrganizer](https://github.com/staj-scavengers/server/blob/master/src/main/java/io/github/stajscavengers/scavenger/view/FlatOrganizer.java)
-* [FlatUser](https://github.com/staj-scavengers/server/blob/master/src/main/java/io/github/stajscavengers/scavenger/view/FlatUser.java)
+* [FlatClue](https:/github.com/staj-scavengers/server/blob/master/src/main/java/iogithub/stajscavengers/scavenger/view/FlatClue.java)
+* [FlatHunt](https:/github.com/staj-scavengers/server/blob/master/src/main/java/iogithub/stajscavengers/scavenger/view/FlatHunt.java)
+* [FlatHuntActivity](https:/github.com/staj-scavengers/server/blob/master/src/main/java/iogithub/stajscavengers/scavenger/view/FlatHuntActivity.java)
+* [FlatOrganizer](https:/github.com/staj-scavengers/server/blob/master/src/main/java/iogithub/stajscavengers/scavenger/view/FlatOrganizer.java)
+* [FlatUser](https:/github.com/staj-scavengers/server/blob/master/src/main/java/iogithub/stajscavengers/scavenger/view/FlatUser.java)
 
 
 ###  Wire Frame

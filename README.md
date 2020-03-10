@@ -1,39 +1,28 @@
 ## Team Roster
 
-  **S**amuel Martinez
+  #### **S**amuel Martinez
   
-  <!-- A different way of trying to make clickable image-->
-  [![Github](/Github.png "Github")*My caption*][https://github.com/semartinez147]
-  
-  LinkedIn: [![alt text](/LinkedIn.png)]
- (https://www.linkedin.com/in/semartinez147/ "LinkedIn")
- 
-  Github: [![alt text](/Github.png)]
- (https://github.com/semartinez147 "Github")
- 
-**T**race Decker
+  GitHub [<img src="github.png" alt="GitHub" width="24"/>](https://github.com/semartinez147) | LinkedIn [<img src="linkedin.png" alt="LinkedIn" width="24">](https://linkedin.com/in/semartinez147)
 
-  LinkedIn: [![alt text](/LinkedIn.png)]
- (https://www.linkedin.com/in/trace-decker-cohort9/ "LinkedIn")
+--- 
  
-  Github: [![alt text](/Github.png)]
- (https://github.com/TraceDecker/ "Github")
+  #### **T**race Decker
+
+  GitHub [<img src="github.png" alt="GitHub" width="24"/>](https://github.com/TraceDecker/) | LinkedIn [<img src="linkedin.png" alt="LinkedIn" width="24">](https://www.linkedin.com/in/trace-decker-cohort9/)
+
+---
  
-**A**bby Reyes
+  #### **A**bby Reyes
 
-  LinkedIn: [![alt text](/LinkedIn.png)]
-(https://www.linkedin.com/in/maritzaareyes/ "LinkedIn")
+  GitHub [<img src="github.png" alt="GitHub" width="24"/>](https://github.com/mabbyreyes/) | LinkedIn [<img src="linkedin.png" alt="LinkedIn" width="24">](https://www.linkedin.com/in/maritzaareyes/)
 
-  Github: [![alt text](/Github.png)]
-(https://github.com/mabbyreyes/ "Github")
+---
   
 **J**awid Mohammadi
 
-  LinkedIn: [![alt text](/LinkedIn.png)]
-(https://www.linkedin.com/in/jawid-mohammadi/ "LinkedIn")
+  GitHub [<img src="github.png" alt="GitHub" width="24"/>](https://github.com/Jawidmohammadi/) | LinkedIn [<img src="linkedin.png" alt="LinkedIn" width="24">](https://www.linkedin.com/in/jawid-mohammadi/)
 
-  Github: [![alt text](/Github.png)]
-(https://github.com/Jawidmohammadi/ "Github")
+---
 
 
 ---

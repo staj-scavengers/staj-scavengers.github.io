@@ -2,28 +2,27 @@
 
   ### **S**amuel Martinez
   
-  GitHub [<img src="github.png" alt="GitHub" width="24"/>](https://github.com/semartinez147) | LinkedIn [<img src="linkedin.png" alt="LinkedIn" width="24">](https://linkedin.com/in/semartinez147)
+  GitHub [![GitHub](github.png)](https://github.com/semartinez147) | LinkedIn [![LinkedIn](linkedin.png)](https://linkedin.com/in/semartinez147)
 
 --- 
  
   ### **T**race Decker
 
-  GitHub [<img src="github.png" alt="GitHub" width="24"/>](https://github.com/TraceDecker/) | LinkedIn [<img src="linkedin.png" alt="LinkedIn" width="24">](https://www.linkedin.com/in/trace-decker-cohort9/)
+  GitHub [![GitHub](github.png)](https://github.com/TraceDecker/) | LinkedIn [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/trace-decker-cohort9/)
 
 ---
  
   ### **A**bby Reyes
 
-  GitHub [<img src="github.png" alt="GitHub" width="24"/>](https://github.com/mabbyreyes/) | LinkedIn [<img src="linkedin.png" alt="LinkedIn" width="24">](https://www.linkedin.com/in/maritzaareyes/)
+  GitHub [![GitHub](github.png)](https://github.com/mabbyreyes/) | LinkedIn [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/maritzaareyes/)
 
 ---
   
   ### **J**awid Mohammadi
 
-  GitHub [<img src="github.png" alt="GitHub" width="24"/>](https://github.com/Jawidmohammadi/) | LinkedIn [<img src="linkedin.png" alt="LinkedIn" width="24">](https://www.linkedin.com/in/jawid-mohammadi/)
+  GitHub [![GitHub](github.png)](https://github.com/Jawidmohammadi/) | LinkedIn [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/jawid-mohammadi/)
 
 ---
-
 
 ---
 

@@ -1,3 +1,43 @@
+## Team Roster
+
+  **S**amuel Martinez
+  
+  <!-- A different way of trying to make clickable image-->
+  [![Github](/Github.png "Github")*My caption*][https://github.com/semartinez147]
+  
+  LinkedIn: [![alt text](/LinkedIn.png)]
+ (https://www.linkedin.com/in/semartinez147/ "LinkedIn")
+ 
+  Github: [![alt text](/Github.png)]
+ (https://github.com/semartinez147 "Github")
+ 
+**T**race Decker
+
+  LinkedIn: [![alt text](/LinkedIn.png)]
+ (https://www.linkedin.com/in/trace-decker-cohort9/ "LinkedIn")
+ 
+  Github: [![alt text](/Github.png)]
+ (https://github.com/TraceDecker/ "Github")
+ 
+**A**bby Reyes
+
+  LinkedIn: [![alt text](/LinkedIn.png)]
+(https://www.linkedin.com/in/maritzaareyes/ "LinkedIn")
+
+  Github: [![alt text](/Github.png)]
+(https://github.com/mabbyreyes/ "Github")
+  
+**J**awid Mohammadi
+
+  LinkedIn: [![alt text](/LinkedIn.png)]
+(https://www.linkedin.com/in/jawid-mohammadi/ "LinkedIn")
+
+  Github: [![alt text](/Github.png)]
+(https://github.com/Jawidmohammadi/ "Github")
+
+
+---
+
 ## Description
 
 Scavengr is an augmented reality scavenger hunt app that uses QR codes and/or NFC tags to display multimedia hints with or without wireless service.  
@@ -85,9 +125,17 @@ Hunters will have the option of downloading any hunt they have access to for off
 * [Clue](https://github.com/staj-scavengers/server/blob/master/src/main/java/io/github/stajscavengers/scavenger/model/entity/Clue.java)
 * [Hunt](https://github.com/staj-scavengers/server/blob/master/src/main/java/io/github/stajscavengers/scavenger/model/entity/Hunt.java)
 * [HuntActivity](https://github.com/staj-scavengers/server/blob/master/src/main/java/io/github/stajscavengers/scavenger/model/entity/HuntActivity.java)
-* [Hunter](https://github.com/staj-scavengers/server/blob/master/src/main/java/io/github/stajscavengers/scavenger/model/entity/Hunter.java)
 * [Organizer](https://github.com/staj-scavengers/server/blob/master/src/main/java/io/github/stajscavengers/scavenger/model/entity/Organizer.java)
 * [User](https://github.com/staj-scavengers/server/blob/master/src/main/java/io/github/stajscavengers/scavenger/model/entity/User.java)
+
+#### Flat Interfaces
+
+* [FlatClue](https://github.com/staj-scavengers/server/blob/master/src/main/java/io/github/stajscavengers/scavenger/view/FlatClue.java)
+* [FlatHunt](https://github.com/staj-scavengers/server/blob/master/src/main/java/io/github/stajscavengers/scavenger/view/FlatHunt.java)
+* [FlatHuntActivity](https://github.com/staj-scavengers/server/blob/master/src/main/java/io/github/stajscavengers/scavenger/view/FlatHuntActivity.java)
+* [FlatOrganizer](https://github.com/staj-scavengers/server/blob/master/src/main/java/io/github/stajscavengers/scavenger/view/FlatOrganizer.java)
+* [FlatUser](https://github.com/staj-scavengers/server/blob/master/src/main/java/io/github/stajscavengers/scavenger/view/FlatUser.java)
+
 
 ###  Wire Frame
 (In progress)

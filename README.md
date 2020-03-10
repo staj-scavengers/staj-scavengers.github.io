@@ -1,24 +1,24 @@
 ## Team Roster
 
-  #### **S**amuel Martinez
+  ### **S**amuel Martinez
   
   GitHub [<img src="github.png" alt="GitHub" width="24"/>](https://github.com/semartinez147) | LinkedIn [<img src="linkedin.png" alt="LinkedIn" width="24">](https://linkedin.com/in/semartinez147)
 
 --- 
  
-  #### **T**race Decker
+  ### **T**race Decker
 
   GitHub [<img src="github.png" alt="GitHub" width="24"/>](https://github.com/TraceDecker/) | LinkedIn [<img src="linkedin.png" alt="LinkedIn" width="24">](https://www.linkedin.com/in/trace-decker-cohort9/)
 
 ---
  
-  #### **A**bby Reyes
+  ### **A**bby Reyes
 
   GitHub [<img src="github.png" alt="GitHub" width="24"/>](https://github.com/mabbyreyes/) | LinkedIn [<img src="linkedin.png" alt="LinkedIn" width="24">](https://www.linkedin.com/in/maritzaareyes/)
 
 ---
   
-**J**awid Mohammadi
+  ### **J**awid Mohammadi
 
   GitHub [<img src="github.png" alt="GitHub" width="24"/>](https://github.com/Jawidmohammadi/) | LinkedIn [<img src="linkedin.png" alt="LinkedIn" width="24">](https://www.linkedin.com/in/jawid-mohammadi/)
 

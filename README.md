@@ -1,26 +1,26 @@
 ## Team Roster
 
-  ### Samuel Martinez
+### Samuel Martinez
   
-  GitHub [![GitHub](github.png)](https://github.com/semartinez147) | LinkedIn [![LinkedIn](linkedin.png)](https://linkedin.com/in/semartinez147)
+GitHub [![GitHub](github.png)](https://github.com/semartinez147) | LinkedIn [![LinkedIn](linkedin.png)](https://linkedin.com/in/semartinez147)
 
 --- 
  
-  ### Trace Decker
+### Trace Decker
 
-  GitHub [![GitHub](github.png)](https://github.com/TraceDecker/) | LinkedIn [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/trace-decker-cohort9/)
+GitHub [![GitHub](github.png)](https://github.com/TraceDecker/) | LinkedIn [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/trace-decker-cohort9/)
 
 ---
  
-  ### Abby Reyes
+### Abby Reyes
 
-  GitHub [![GitHub](github.png)](https://github.com/mabbyreyes/) | LinkedIn [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/maritzaareyes/)
+GitHub [![GitHub](github.png)](https://github.com/mabbyreyes/) | LinkedIn [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/maritzaareyes/)
 
 ---
   
-  ### Jawid Mohammadi
+### Jawid Mohammadi
 
-  GitHub [![GitHub](github.png)](https://github.com/Jawidmohammadi/) | LinkedIn [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/jawid-mohammadi/)
+GitHub [![GitHub](github.png)](https://github.com/Jawidmohammadi/) | LinkedIn [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/jawid-mohammadi/)
 
 ---
 

@@ -2,25 +2,25 @@
 
 ### Samuel Martinez
   
-[![GitHub](github.png)](https:/github.com/semartinez147)  [![LinkedIn](linkedin.png)](https:/linkedin.com/in/semartinez147)
+[![GitHub](github.png)](https://github.com/semartinez147)  [![LinkedIn](linkedin.png)](https:/linkedin.com/in/semartinez147)
 
 --- 
  
 ### Trace Decker
 
-[![GitHub](github.png)](https:/github.com/TraceDecker/)  [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/trace-decker-cohort9/)
+[![GitHub](github.png)](https://github.com/TraceDecker/)  [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/trace-decker-cohort9/)
 
 ---
  
 ### Abby Reyes
 
-[![GitHub](github.png)](https:/github.com/mabbyreyes/)  [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/maritzaareyes/)
+[![GitHub](github.png)](https://github.com/mabbyreyes/)  [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/maritzaareyes/)
 
 ---
   
 ### Jawid Mohammadi
 
-[![GitHub](github.png)](https:/github.com/Jawidmohammadi/)  [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/jawid-mohammadi/)
+[![GitHub](github.png)](https://github.com/Jawidmohammadi/)  [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/jawid-mohammadi/)
 
 ---
 

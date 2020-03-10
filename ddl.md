@@ -1,6 +1,6 @@
 # SQL data definition language (DDL)
 
-```sqlite
+```derby
 create table clue
 (
     clue_id    CHAR(16) FOR BIT DATA not null,

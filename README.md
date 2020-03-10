@@ -108,4 +108,5 @@ Hunters will have the option of downloading any hunt they have access to for off
 
 ### [Entity Relationship Diagram](erd.md)
 ### [Wireframe Diagram](scavenger-wireframe.md)
-## [Implementation](implementation.md)
+### [Implementation](implementation.md)
+### [Data Definition Language](ddl.md)

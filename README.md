@@ -107,23 +107,5 @@ Hunters will have the option of downloading any hunt they have access to for off
 ## Design Documentation
 
 ### [Entity Relationship Diagram](erd.md)
-
-#### Entity Classes
-
-* [Clue](https:/github.com/staj-scavengers/server/blob/master/src/main/java/iogithub/stajscavengers/scavenger/model/entity/Clue.java)
-* [Hunt](https:/github.com/staj-scavengers/server/blob/master/src/main/java/iogithub/stajscavengers/scavenger/model/entity/Hunt.java)
-* [HuntActivity](https:/github.com/staj-scavengers/server/blob/master/src/main/java/iogithub/stajscavengers/scavenger/model/entity/HuntActivity.java)
-* [Organizer](https:/github.com/staj-scavengers/server/blob/master/src/main/java/iogithub/stajscavengers/scavenger/model/entity/Organizer.java)
-* [User](https:/github.com/staj-scavengers/server/blob/master/src/main/java/iogithub/stajscavengers/scavenger/model/entity/User.java)
-
-#### Flat Interfaces
-
-* [FlatClue](https:/github.com/staj-scavengers/server/blob/master/src/main/java/iogithub/stajscavengers/scavenger/view/FlatClue.java)
-* [FlatHunt](https:/github.com/staj-scavengers/server/blob/master/src/main/java/iogithub/stajscavengers/scavenger/view/FlatHunt.java)
-* [FlatHuntActivity](https:/github.com/staj-scavengers/server/blob/master/src/main/java/iogithub/stajscavengers/scavenger/view/FlatHuntActivity.java)
-* [FlatOrganizer](https:/github.com/staj-scavengers/server/blob/master/src/main/java/iogithub/stajscavengers/scavenger/view/FlatOrganizer.java)
-* [FlatUser](https:/github.com/staj-scavengers/server/blob/master/src/main/java/iogithub/stajscavengers/scavenger/view/FlatUser.java)
-
-
-###  Wire Frame
-(In progress)
+### [Wireframe Diagram](scavenger-wireframe.md)
+## [Implementation](implementation.md)

@@ -75,6 +75,17 @@ Hunters will have the option of downloading any hunt they have access to for off
 
 ---
 
+## Current State of the App
+
+Scavengr's server is able to handle HTTP requests, but does not control user roles or permissions, and we were unable to successfully implement a Preload Launcher.
+
+The client app has a local database, as well as service classes that interact with the server and local entities.  We also created Fragment classes for the client UI, built XML layouts, and prepared adapters to receive and display database objects.  The Current Clue fragment opens a camera view and contains QR recognition logic.
+
+However, we were unable to complete the ViewModel interactions needed to connect the interface to either database, so there is no real functionality in the app.
+
+Due to social isolation measures and a lack of foresight, we did not get NFC tags to experiment with, and so have not made an attempt at incorporating NFC read/write into the app.
+---
+
 ## External services/data
 
 1. Physical NFC tags 
@@ -110,3 +121,12 @@ Hunters will have the option of downloading any hunt they have access to for off
 ### [Wireframe Diagram](scavenger-wireframe.md)
 ### [Implementation](implementation.md)
 ### [Data Definition Language](ddl.md)
+
+### [Build Instructions]
+
++ Fork/Clone the Server and Client:
+    +[Server Repository](https://github.com/staj-scavengers/server)
+    +[Client Repository](https://github.com/staj-scavengers/scavengr-client)
+
++ Import the server as a Maven project, and the Client as a Gradle project.
++ Preload a sample Hunt by copying the contents of server/src/main/resources/preload/preload.json to the body of a JSON POST request in Postman.

@@ -77,13 +77,34 @@ Hunters will have the option of downloading any hunt they have access to for off
 
 ## Current State of the App
 
-Scavengr's server is able to handle HTTP requests, but does not control user roles or permissions, and we were unable to successfully implement a Preload Launcher.
+Scavengr's server is able to handle HTTP requests, but does not restrict user permissions. 
+We were unable to successfully implement a Preload Launcher, so data is being manually added through Postman.
 
-The client app has a local database, as well as service classes that interact with the server and local entities.  We also created Fragment classes for the client UI, built XML layouts, and prepared adapters to receive and display database objects.  The Current Clue fragment opens a camera view and contains QR recognition logic.
+The client app has a local database, as well as service classes that interact with the server and 
+local entities to download and upload Hunt entities.  We built our UI with a mix of static fields 
+and list adapters to receive and display database objects.  The Current Clue fragment opens a camera view and 
+contains QR recognition logic that triggers a webview containing the media linked to each clue 
+before advancing to the next.
 
-However, we were unable to complete the ViewModel interactions needed to connect the interface to either database, so there is no real functionality in the app.
+There are currently five default QR codes, which contain the text "scavengr-clue-1", 
+"scavengr-clue-2", etc.  Scanning the code linked to a Clue loads the corresponding media Url in a 
+pop up webview.  There is an error Toast if any other QR code is detected.  
 
-Due to social isolation measures and a lack of foresight, we did not get NFC tags to experiment with, and so have not made an attempt at incorporating NFC read/write into the app.
+Due to social isolation measures and a lack of foresight, we did not get NFC tags to experiment 
+with, and so have not made an attempt at incorporating NFC read/write into the app.
+
+#### Our goals for the future include:
+
+* In-app QR generation.
+
+* NFC integration.
+
+* Server security.
+
+* HuntDetails POJO to preview a Hunt before downloading to reduce server traffic & storage use.
+
+* Media upload to server to enable offline play.
+
 ---
 
 ## External services/data
@@ -96,11 +117,16 @@ Due to social isolation measures and a lack of foresight, we did not get NFC tag
 2. Device camera
   * Required to scan QR codes on a hunt.
   * Unless a hunt is entirely NFC-based, issues with the device's camera will make participating in a hunt impossible.
+
+2. [Android GMS Vision](https://developers.google.com/android/reference/com/google/android/gms/vision/package-summary)
+  * This is a Google API separate from the standard Android libraries.
+  * Contains utilities for recognizing QR codes and other data from camera input, and interpreting their contents.
+  * Along with the camera, this is required for QR functionality. 
   
 3. QR codes
   * Printable QR codes will be provided to simplify user experience.
   * Additional codes can be generated and printed for free online.
-  * QR codes are required for the app to work, and may need to be replaced.
+  * QR codes are required for the app to work, and may need to be replaced if they are lost/damaged.
   
 4. [OAuth login](https://oauth.net/2/)
   * Users will be required to authenticate through OAuth during account creation.
@@ -110,7 +136,7 @@ Due to social isolation measures and a lack of foresight, we did not get NFC tag
 5. Scavengr Server 
   * Hunt data and user profiles will be stored remotely.
   * The server will manage access levels and scoreboards for hunts
-  * Authorized users will be able to download a hunt database file to play offline.
+  * Authorized users are able to download hunt database files.
   * Server access will be required to save/access new hunts.
 
 ---
@@ -129,4 +155,6 @@ Due to social isolation measures and a lack of foresight, we did not get NFC tag
     +[Client Repository](https://github.com/staj-scavengers/scavengr-client)
 
 + Import the server as a Maven project, and the Client as a Gradle project.
++ Run the ServerLoader class to start the server app.
++ Adjust the "BASE_URL" field in the client's app-level build.gradle to match the IP of your server device, or set it to 10.0.2.2 to run on an Android emulator.
 + Preload a sample Hunt by copying the contents of server/src/main/resources/preload/preload.json to the body of a JSON POST request in Postman.

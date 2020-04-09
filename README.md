@@ -2,7 +2,7 @@
 
 ### Samuel Martinez
   
-[![GitHub](github.png)](https://github.com/semartinez147)  [![LinkedIn](linkedin.png)](https:/linkedin.com/in/semartinez147)
+[![GitHub](github.png)](https://github.com/semartinez147)  [![LinkedIn](linkedin.png)](https://linkedin.com/in/semartinez147)
 
 --- 
  

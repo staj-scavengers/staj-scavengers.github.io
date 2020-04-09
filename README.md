@@ -158,3 +158,9 @@ with, and so have not made an attempt at incorporating NFC read/write into the a
 + Run the ServerLoader class to start the server app.
 + Adjust the "BASE_URL" field in the client's app-level build.gradle to match the IP of your server device, or set it to 10.0.2.2 to run on an Android emulator.
 + Preload a sample Hunt by copying the contents of server/src/main/resources/preload/preload.json to the body of a JSON POST request in Postman.
++ Use the following pre-generated QR codes:
+    + [Clue 1](scavengr_qr_clue_1.png)
+    + [Clue 2](scavengr_qr_clue_2.png)
+    + [Clue 3](scavengr_qr_clue_3.png)
+    + [Clue 4](scavengr_qr_clue_4.png)
+    + [Clue 5](scavengr_qr_clue_5.png)
